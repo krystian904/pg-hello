@@ -13,6 +13,7 @@
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
-	
+	<gap:plugin name="youtube-player" source="npm" version="version
+5.5.0" />
 	
 </widget>
