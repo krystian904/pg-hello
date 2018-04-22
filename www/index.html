@@ -8,9 +8,7 @@
 	</head>
 	<body onload="init()">
 		<h1>Hello World!</h1>
-		
-		 <div id='player-1'></div>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/TdXXVPcfR0M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</body>
+		<script>
+		YoutubeVideoPlayer.openVideo('YOUTUBE_VIDEO_ID', function(result) { console.log('YoutubeVideoPlayer result = ' + result); });
+		</script>
 </html>
