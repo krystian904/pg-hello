@@ -14,9 +14,7 @@
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
 	
-	<platform name="android">
-    <resource-file src="google-services.json" target="google-services.json" />
-  
-</platform>
+	<access origin="*"/>
+	<plugin name="cordova-plugin-whitelist" version="1"/>
 	
 </widget>
