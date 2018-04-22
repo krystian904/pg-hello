@@ -14,6 +14,6 @@
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
 	
-	<plugin spec=”https://github.com/floatinghotpot/cordova-admob-pro”/>
+	<plugin spec=”https://github.com/floatinghotpot/cordova-admob-pro” spec=”git url” />
 	
 </widget>
