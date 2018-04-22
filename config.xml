@@ -13,6 +13,6 @@
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
-	<plugin name="youtube-player" spec="5.5.0"/>
+	<plugin name="youtube-player" spec="5.5.0"  source="npm"/>
 	
 </widget>
