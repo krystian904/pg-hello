@@ -15,6 +15,6 @@
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
 	<access origin="*"/>
 	<plugin name="cordova-plugin-whitelist" version="1"/>
-	<plugin name="VueYoutube" version="1.2.5"  source="npm" />
+	<plugin name="youtube-player" version="5.5.0"  source="npm" />
 	
 </widget>
