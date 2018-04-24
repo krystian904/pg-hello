@@ -10,7 +10,7 @@
 		John Brown
 	</author>
 	
-	
+	<platform name="android" >	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
 	<plugin name="cordova-plugin-in-app-youtube"  />
