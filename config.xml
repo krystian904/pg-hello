@@ -9,12 +9,12 @@
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		John Brown
 	</author>
-	<platform name="android" />
+	<platform name="android" >
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
-	<plugin name="cordova-plugin-youtube-video-player" spec="1.0.6" />
+	<plugin name="cordova-plugin-in-app-youtube"  />
+	</platform>
 	
-	<preference name="YouTubeDataApiKey" value="AIzaSyCHzTXEAb_Nj3IFTqYEQkWcotpJ-ysq2Fo" />
 	
 </widget>
